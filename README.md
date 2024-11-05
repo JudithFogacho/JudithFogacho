@@ -51,3 +51,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudithFogacho&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudithFogacho&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+<p align= "center">
+  <a href="https://emoji.gg/emoji/5349-hellokittybyebye"><img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye"></a>
+</p>
+
