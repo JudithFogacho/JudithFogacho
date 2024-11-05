@@ -2,8 +2,8 @@
 
 <div>
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/eDGidzd.png"/>
-  <div>
-    <h2> / about me /</h2>
+  <div width="300">
+    <h2> Sobre Mi 🎥 </h2>
   </div>
   
 - ⭐ currently working on **web-development**
