@@ -18,10 +18,11 @@
 
   ### 🛠 &nbsp;Lenguajes y herramientas
   - Backend
-    <br/> 
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,c,c#,py" />
+    </a>
+  </p>
   
   - Frontend
   <p align="left">
