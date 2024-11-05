@@ -2,7 +2,9 @@
 
 <div>
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/eDGidzd.png"/>
-  <h2> / about me /</h2>
+  <div>
+    <h2> / about me /</h2>
+  </div>
   
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
