@@ -2,7 +2,7 @@
 
 <div>
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/eDGidzd.png"/>
-  <h3 align="center">Connect with me:</h3>
+  <h3 align="left">Connect with me:</h3>
   <div align="left">
   
   [![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-fogacho-268972323?trk=contact-info)
