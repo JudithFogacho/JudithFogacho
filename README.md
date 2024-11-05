@@ -44,6 +44,10 @@
       <img src="https://skillicons.dev/icons?i=github,figma,idea,vscode,linux,visualstudio" />
     </a>
   </p>
+</div>
+## GitHub Analytics 📊
 
-  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudithFogacho&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudithFogacho&layout=compact&theme=radical" alt="Top Languages" />
 </div>
