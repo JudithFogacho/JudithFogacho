@@ -14,16 +14,14 @@
   - ⭐ currently working on **web-development**
   - 💀 mostly working on **private repositories**
   - 👾 a **student** working his way around things
-  <h2> / current skills / </h2>
   
   <h3 align="left">Lenguajes y herramientas:</h3>
   
   - Backend
-  <p align="left">
-    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-    ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+  ### 🛠 &nbsp;Tech Stack
+  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+  ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
-  </p>
   
   - Frontend
   <p align="left">
