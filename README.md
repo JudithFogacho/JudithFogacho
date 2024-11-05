@@ -15,10 +15,9 @@
   - 💀 mostly working on **private repositories**
   - 👾 a **student** working his way around things
   
-  <h3 align="left">Lenguajes y herramientas:</h3>
-  
+
+  ### 🛠 &nbsp;Lenguajes y herramientas
   - Backend
-  ### 🛠 &nbsp;Tech Stack
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
   ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 
