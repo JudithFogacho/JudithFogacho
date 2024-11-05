@@ -20,7 +20,7 @@
   - Backend
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,c,c#,py" />
+      <img src="https://skillicons.dev/icons?i=java,c,cs,py" />
     </a>
   </p>
   
