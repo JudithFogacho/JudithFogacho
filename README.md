@@ -49,12 +49,19 @@
 
 ---
 ## 🔱 Proyectos
-### 🪐Hackaton Nasa: Mapeo por medio de una App
+### 🪐 Hackaton Nasa: App de Mapeo
 Creamos un prototipo intuitivo en una hackathon para que cualquier persona pueda reportar riesgos naturales y escanear su entorno rápidamente. Diseñado para ser claro y fácil de usar en situaciones de emergencia.
 
 [🔗 Ver diseño](https://drive.google.com/drive/folders/1u3S7wg5a6zsYDGrM_6VQveDOd4KUDkMz?usp=sharing)
 
-### ✨ GitHub Analytics
+### 🧠 Ingennials 3.0: Gestión de un call center
+
+Hemos creado una solución en Java para optimizar la gestión de centros de llamadas, integrando recursos humanos y análisis de rendimiento en una interfaz intuitiva. Muestra estadísticas clave para decisiones rápidas y efectivas.
+
+[🔗 Ver Proyecto](https://drive.google.com/drive/folders/1u3S7wg5a6zsYDGrM_6VQveDOd4KUDkMz?usp=sharing)
+
+
+## ✨ GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JudithFogacho&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudithFogacho&layout=compact&theme=tokyonight" alt="Top Languages" />
