@@ -49,8 +49,9 @@
 
 ---
 ## 🔱 Proyectos
-###🪐Hackaton Nasa: Mapeo por medio de una App
+### 🪐Hackaton Nasa: Mapeo por medio de una App
 Creamos un prototipo intuitivo en una hackathon para que cualquier persona pueda reportar riesgos naturales y escanear su entorno rápidamente. Diseñado para ser claro y fácil de usar en situaciones de emergencia.
+
 [🔗 Ver diseño](https://drive.google.com/drive/folders/1u3S7wg5a6zsYDGrM_6VQveDOd4KUDkMz?usp=sharing)
 
 ### ✨ GitHub Analytics
