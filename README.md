@@ -1,7 +1,7 @@
 # ✨ Hola, soy [Judith Fogacho](https://github.com/JudithFogacho) ✨
 
 <div>
-  <img align="right" width="400" alt="Shimarin" src="https://imgur.com/a/P9CUXbM"/>
+  <img align="right" width="400" alt="Shimarin" src="//s.imgur.com/min/embed.js"/>
 
   ### 💫 Contactame:
   
