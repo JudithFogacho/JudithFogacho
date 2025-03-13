@@ -10,7 +10,7 @@
   [![image](https://img.shields.io/badge/Gmail-9F84BD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:judithfogacho@gmail.com)
 
   ### 🌟 Sobre Mi 
-  - 🪄 Actualmente trabajando en **desarrollo web**
+  - 🎆 Actualmente trabajando en **desarrollo web**
   - 🔮 Principalmente en **repositorios privados**
   - 💜 Una **estudiante** explorando nuevos horizontes
 </div>
@@ -22,7 +22,7 @@
 #### ⚡ Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cs,py" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 #### 🔧 Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,figma,idea,vscode,linux,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=github,figma,idea,vscode,visualstudio,dotnet" />
   </a>
 </p>
 
